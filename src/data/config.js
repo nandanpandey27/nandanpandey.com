@@ -4,7 +4,7 @@ module.exports = {
   author: "Nandan Pandey",
   url: "https://nandanpandey.com",
   legalName: "Nandan Pandey",
-  defaultDescription: "I’m Nandan and I’m a Fullstack Developer in JavaScript!",
+  defaultDescription: "I’m Nandan and I’m a JavaScript Developer!",
   socialLinks: {
     twitter: "http://www.twitter.com/bwithnandan",
     github: "https://github.com/nandanpandey27",

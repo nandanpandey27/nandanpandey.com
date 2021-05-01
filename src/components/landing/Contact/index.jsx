@@ -10,7 +10,7 @@ export const Contact = () => (
       <ContactForm />
     </Details>
     <Thumbnail>
-      <img src={contact} alt="I’m Nandan and I’m a Fullstack Developer in JavaScript!" />
+      <img src={contact} alt="I’m Nandan and I’m a JavaScript Developer!" />
     </Thumbnail>
   </Wrapper>
 );
